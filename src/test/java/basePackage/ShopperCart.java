@@ -58,6 +58,6 @@ public class ShopperCart extends BaseClass{
 		res.then().log().all();
 		
 		System.out.println("this is my second commit");
-		System.out.println("this is my third commit");
+		System.out.println("main");
 	}
 }
